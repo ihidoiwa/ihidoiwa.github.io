@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihidoiwa.github.io/DHZ/sitemap_index.txt
+Sitemap: https://ihidoiwa.github.io/Mkf/sitemap_index.txt
+Sitemap: https://ihidoiwa.github.io/aNt/sitemap_index.txt
+Sitemap: https://ihidoiwa.github.io/meO/sitemap_index.txt
